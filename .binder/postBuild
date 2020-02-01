@@ -1,3 +1,2 @@
 # enable nbserverproxy
 jupyter serverextension enable --sys-prefix nbserverproxy
-python widgets_overview_app.py
