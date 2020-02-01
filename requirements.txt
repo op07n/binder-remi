@@ -1,3 +1,0 @@
-remi
-jupyter-server-proxy 
-nbserverproxy
